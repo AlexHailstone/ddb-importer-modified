@@ -1,0 +1,59 @@
+{
+  "id": "ddb-importer",
+  "name": "ddb-importer",
+  "author": "Alex Ramsbey",
+  "title": "DDB-Importer: A D&D Beyond Integrator",
+  "license": "MIT License",
+  "description": "Import your dndbeyond.com characters, spells, items, monsters, encounters, and adventures!",
+  "version": "1.0",
+  "download": "https://github.com/mrprimate/ddb-importer/releases/download/VERSION/ddb-importer.zip",
+  "manifest": "https://github.com/mrprimate/ddb-importer/releases/download/latest/module.json",
+  "readme": "https://github.com/MrPrimate/ddb-importer/blob/main/README.md",
+  "changelog": "https://github.com/MrPrimate/ddb-importer/blob/main/CHANGELOG.md",
+  "url": "https://github.com/mrprimate/ddb-importer",
+  "minimumCoreVersion": "10.282",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "10.282",
+    "verified": 11
+  },
+  "authors": [
+    {
+      "name": "Alex Ramsbey",
+      "email": "j",
+      "url": "k",
+      "patreon": "",
+      "discord": ""
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "system": ["dnd5e"],
+  "relationships": {
+    "systems": [{
+      "id": "dnd5e",
+      "type": "system",
+      "compatibility": {
+        "verified": "2.1.5"
+      }
+    }]
+  },
+  "scripts": [
+    "./vendor/jszip/jszip.min.js"
+  ],
+  "esmodules": ["dist/main.js"],
+  "styles": [
+    "./css/default.css",
+    "./css/import.css",
+    "./css/journal.css",
+    "./css/notifications.css",
+    "./css/adventure.css"
+  ],
+  "packs": [],
+  "socket": true
+}
