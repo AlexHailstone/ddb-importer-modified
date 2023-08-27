@@ -1,6 +1,6 @@
 {
-  "id": "ddb-importer",
-  "name": "ddb-importer",
+  "id": "ddb-importer-modified",
+  "name": "ddb-importer modified",
   "author": "Alex Ramsbey",
   "title": "DDB-Importer: A D&D Beyond Integrator",
   "license": "MIT License",
