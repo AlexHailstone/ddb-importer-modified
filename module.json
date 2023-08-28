@@ -6,11 +6,11 @@
   "license": "MIT License",
   "description": "Import your dndbeyond.com characters, spells, items, monsters, encounters, and adventures!",
   "version": "1.0",
-  "download": "https://github.com/mrprimate/ddb-importer/releases/download/VERSION/ddb-importer.zip",
+  "download": "https://github.com/AlexHailstone/ddb-importer-modified/archive/refs/heads/main.zip",
   "manifest": "https://github.com/AlexHailstone/ddb-importer-modified/blob/main/module.json",
   "readme": "https://github.com/MrPrimate/ddb-importer/blob/main/README.md",
   "changelog": "https://github.com/AlexHailstone/ddb-importer-modified/blob/main/README.md",
-  "url": "https://github.com/mrprimate/ddb-importer",
+  "url": "https://github.com/AlexHailstone/ddb-importer-modified",
   "minimumCoreVersion": "10.282",
   "compatibleCoreVersion": "10",
   "compatibility": {
