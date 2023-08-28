@@ -9,7 +9,7 @@
   "download": "https://github.com/mrprimate/ddb-importer/releases/download/VERSION/ddb-importer.zip",
   "manifest": "https://github.com/AlexHailstone/ddb-importer-modified/blob/main/module.json",
   "readme": "https://github.com/MrPrimate/ddb-importer/blob/main/README.md",
-  "changelog": "https://github.com/MrPrimate/ddb-importer/blob/main/CHANGELOG.md",
+  "changelog": "https://github.com/AlexHailstone/ddb-importer-modified/blob/main/README.md",
   "url": "https://github.com/mrprimate/ddb-importer",
   "minimumCoreVersion": "10.282",
   "compatibleCoreVersion": "10",
